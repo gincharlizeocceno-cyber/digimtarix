@@ -1,0 +1,8 @@
+{
+  "name": "digimatrix-palawan-upload-portal",
+  "version": "1.0.0",
+  "description": "Print order and artwork upload portal",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "multer": "^2.0.2" }
+}
